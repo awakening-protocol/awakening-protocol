@@ -36,10 +36,10 @@
   ],
   "language": "en",
   "links": {
-    "facebook": "@pelenacode",
-    "github": "https://github.com/awakening-protocol",
+    "facebook": "https://www.facebook.com/pelenacode",
+    "github": "https://github.com/awakening-protocol/project_pelena/blob/main/manifest.json",
     "telegram": "https://t.me/pelinacode",
-    "x_twitter": "@pelenacode"
+    "x_twitter": "https://x.com/pelenacode"
   },
   "project": "ProjectPelena",
   "roles": {
@@ -66,3 +66,4 @@
   },
   "version": "1.0.0"
 }
+    
