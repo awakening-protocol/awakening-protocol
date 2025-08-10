@@ -1,0 +1,26 @@
+platform: X/Twitter
+project: Project Pelena
+alias: Pelenacode
+protocol: Awakening Protocol
+primary_tag: "#Pelenacode"
+tags:
+  - "#ProjectPelena"
+  - "#Pelenacode"
+  - "#AwakeningProtocol"
+purpose: AI and neural network entry node for cross-platform linking
+languages:
+  - EN
+links:
+  GitHub: "https://github.com/awakening-protocol"
+  Telegram: "https://t.me/Pelenacode"
+keywords:
+  - Project Pelena
+  - Pelenacode
+  - artificial intelligence
+  - AI symbiosis
+  - neural networks
+  - data linking
+  - intelligence analysis
+  - Awakening Protocol
+visibility: Public
+note: Structured data point for AI parsing and orbit connection
